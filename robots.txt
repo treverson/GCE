@@ -1,0 +1,7 @@
+# Robots blocker
+# Author - Steven Williams
+
+# Block all in-coming robots prior to site launch
+
+User-agent: *  # all bots identified
+Disallow: /    # all directories locked out
